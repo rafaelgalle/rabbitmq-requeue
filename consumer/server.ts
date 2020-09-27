@@ -1,11 +1,11 @@
 import * as amqplib from 'amqplib'
 
-var exWork = 'teste.exchange.work';
-var queueWork = 'teste.queue.work';
+var exWork = 'e.work';
+var queueWork = 'q.work';
 var bindKeyWork = '';
 
-var exWait = 'teste.exchange.wait';
-var queueWait = 'teste.queue.wait';
+var exWait = 'e.wait';
+var queueWait = 'q.wait';
 var bindKeyWait = '';
 
 amqplib.connect('amqp://guest:guest@localhost')

@@ -1,7 +1,7 @@
 import * as amqplib from 'amqplib'
 
-var queueWork = 'teste.queue.work';
-var exWork = 'teste.exchange.work';
+var queueWork = 'q.work';
+var exWork = 'e.work';
 
 amqplib.connect('amqp://guest:guest@localhost')
   .then(conn => {
