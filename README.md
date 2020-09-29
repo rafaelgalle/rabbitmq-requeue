@@ -1,4 +1,4 @@
-# RABBIT-MQ REPROCESS
+# RABBITMQ REPROCESS
 
 ### View more
 https://medium.com/@rafaelgalle1/reprocessamento-com-rabbitmq-821a0f6ef615
