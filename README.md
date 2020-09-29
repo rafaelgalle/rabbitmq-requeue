@@ -1,7 +1,7 @@
 # RABBITMQ REPROCESS
 
 ### View more
-https://medium.com/@rafaelgalle1/reprocessamento-com-rabbitmq-821a0f6ef615
+https://medium.com/@rafaelgalle1/reprocessamento-com-rabbitmq-e43e15a7c7a8
 
 ### Run
 ```sh
